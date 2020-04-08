@@ -4,4 +4,4 @@
 
 ### The model placed ~1000/3000, but disregarding non forked solutions the model placed within the top 2% of the competition. Link to the competition can be found below
 
-## [a link](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
+## [Unintended Bias In Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
